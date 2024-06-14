@@ -1,6 +1,5 @@
 <h2 align="left">Olá, meu nome é Vitor e sou aluno do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. <br>
 Atualmente, estou cursando o Tecnologia em Sistemas para Internet (TSI). <br>
-Estudar nesta instituição tem sido uma experiência enriquecedora, onde tenho a oportunidade de mergulhar em um ambiente acadêmico dinâmico e repleto de desafios.
 </h2>
  
 ###
@@ -40,6 +39,8 @@ Estudar nesta instituição tem sido uma experiência enriquecedora, onde tenho 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 
