@@ -1,5 +1,4 @@
-<h2 align="left">Olá, meu nome é Vitor e sou aluno do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. <br>
-Atualmente, estou cursando o Tecnologia em Sistemas para Internet (TSI). <br>
+<h2 align="left">Olá, meu nome é Vitor e sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Atualmente, estou cursando Tecnologia em Sistemas para Internet (TSI).
 </h2>
  
 ###
