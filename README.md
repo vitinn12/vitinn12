@@ -16,10 +16,10 @@
 </div>
 
 ###
-<h2>🔥 Habilidades</h2>
+<h2>🔥 Skills</h2>
 
 <div align="left">
-  <h3>Linguagens</h3>
+  <h3>Language</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -39,7 +39,7 @@
 </div>
 
 <div align="left">
-  <h3>Ferramentas</h3>
+  <h3>Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
