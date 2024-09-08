@@ -6,7 +6,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/vitor-alves-b01018276)
 
 ###
+<img src="https://raw.githubusercontent.com/vitinn1/vitinn12/output/snake.svg" alt="Snake animation" />
 
+###
 
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinn12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
