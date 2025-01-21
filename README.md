@@ -28,13 +28,13 @@
 <div align="left">
   <h3>Framework                             Tools</h3>
  
-  [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)          
+  [![My Skills](https://skillicons.dev/icons?i=django,react,express)](https://skillicons.dev)    
 </div>
 
 <div align="left">
   <h3>Tools</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,figma,git,apache)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=mysql,vscode,figma,git,canva)](https://skillicons.dev)
 </div>
 
 
