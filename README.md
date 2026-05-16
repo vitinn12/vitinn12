@@ -1,4 +1,6 @@
-<h2 align="left">
+<h2 align="left"># Olá, eu sou o Vitor Emanuel! 👋
+
+Sou formado em **Tecnologia em Sistemas para Internet** pelo **Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN)**.
 </h2>
  
 ###
